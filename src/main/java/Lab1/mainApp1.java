@@ -7,7 +7,6 @@ public class mainApp1 {
         System.out.println("Program ..Starting...");
         System.out.println("1 + 1 = "+2);
         System.out.println("xpengat 7th commit change sys out");
-
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
         System.out.println(n+"! = " + myLibrary.factorial(n));
         System.out.println("Program ..Ended ...");
